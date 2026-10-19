@@ -137,21 +137,29 @@ A full-stack web application for discovering campgrounds, managing listings, and
 
 </div>
 
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sonia071202&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
-
+  <img
+    src="https://github-profile-trophy.screw-handles.workers.dev/?username=sonia071202&theme=tokyonight&no-frame=true&margin-w=8"
+    alt="GitHub trophies"
+    width="100%"
+  />
 </div>
+
+
 
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonia071202&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
-
+  <img
+    src="https://raw.githubusercontent.com/sonia071202/sonia071202/output/activity-graph.svg"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
 </div>
+
 
 ## 🐍 Contribution Snake
 
