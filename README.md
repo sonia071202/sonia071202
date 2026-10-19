@@ -31,46 +31,15 @@
 - **Amity University, Jharkhand**
 - **2026**
 
-## 🛠️ Tech Stack
 
-### Languages
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" alt="Python, Java, JavaScript, HTML and CSS"/>
-</p>
+<div align="center">
 
-### Frontend Development
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,nodejs,express,react,spring,mysql,mongodb,git,github,vscode,idea&perline=8" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,ejs" alt="HTML, CSS, JavaScript and EJS"/>
-</p>
+</div>
 
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js and Express"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB and MySQL"/>
-</p>
-
-### AI & RAG
-
-<p>
-<img src="https://img.shields.io/badge/Python-AI%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge" alt="LangChain"/>
-<img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge" alt="FAISS"/>
-<img src="https://img.shields.io/badge/Hugging%20Face-Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,render" alt="Git, GitHub, VS Code, Postman and Render"/>
-</p>
 
 ## 🚀 Featured Projects
 
