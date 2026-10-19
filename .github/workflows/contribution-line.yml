@@ -1,0 +1,138 @@
+
+name: Generate Contribution Line Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install matplotlib requests
+
+      - name: Generate line graph
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PY'
+          import os
+          import requests
+          import matplotlib
+          matplotlib.use("Agg")
+          import matplotlib.pyplot as plt
+          import matplotlib.dates as mdates
+          from datetime import date, timedelta
+
+          username = "sonia071202"
+          end = date.today()
+          start = end - timedelta(days=364)
+
+          query = """
+          query($login: String!, $from: DateTime!, $to: DateTime!) {
+            user(login: $login) {
+              contributionsCollection(from: $from, to: $to) {
+                contributionCalendar {
+                  weeks {
+                    contributionDays {
+                      date
+                      contributionCount
+                    }
+                  }
+                }
+              }
+            }
+          }
+          """
+
+          response = requests.post(
+              "https://api.github.com/graphql",
+              headers={"Authorization": "Bearer " + os.environ["GH_TOKEN"]},
+              json={"query": query, "variables": {
+                  "login": username,
+                  "from": start.isoformat() + "T00:00:00Z",
+                  "to": end.isoformat() + "T23:59:59Z"
+              }},
+              timeout=30
+          )
+          response.raise_for_status()
+          result = response.json()
+
+          if "errors" in result or not result.get("data", {}).get("user"):
+              raise RuntimeError(str(result.get("errors", "GitHub user not found")))
+
+          days = result["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+          values = {
+              day["date"]: day["contributionCount"]
+              for week in days for day in week["contributionDays"]
+          }
+
+          dates = []
+          counts = []
+          current = start
+          while current <= end:
+              dates.append(current)
+              counts.append(values.get(current.isoformat(), 0))
+              current += timedelta(days=1)
+
+          plt.rcParams.update({
+              "figure.facecolor": "#1a1b27",
+              "axes.facecolor": "#1a1b27",
+              "text.color": "#c0caf5",
+              "axes.labelcolor": "#c0caf5",
+              "xtick.color": "#a9b1d6",
+              "ytick.color": "#a9b1d6",
+              "font.size": 10
+          })
+
+          fig, ax = plt.subplots(figsize=(12, 4.5))
+          fig.subplots_adjust(left=0.09, right=0.98, top=0.84, bottom=0.20)
+
+          ax.plot(dates, counts, color="#bb9af7", linewidth=2, label="Daily contributions")
+          ax.fill_between(dates, counts, color="#bb9af7", alpha=0.18)
+          ax.set_title("GitHub Contribution Activity — Last 365 Days",
+                       fontsize=15, fontweight="bold", pad=18)
+          ax.set_xlabel("Date")
+          ax.set_ylabel("Contributions per day")
+          ax.xaxis.set_major_locator(mdates.MonthLocator(interval=2))
+          ax.xaxis.set_major_formatter(mdates.DateFormatter("%b %Y"))
+          ax.grid(True, linestyle="--", alpha=0.22, color="#a9b1d6")
+          ax.spines["top"].set_visible(False)
+          ax.spines["right"].set_visible(False)
+          ax.spines["left"].set_color("#414868")
+          ax.spines["bottom"].set_color("#414868")
+          ax.legend(frameon=False, loc="upper left")
+          ax.set_ylim(bottom=0)
+
+          os.makedirs("activity-assets", exist_ok=True)
+          fig.savefig("activity-assets/contribution-line.svg",
+                      format="svg", facecolor=fig.get_facecolor())
+          plt.close(fig)
+          print("Created activity-assets/contribution-line.svg")
+          PY
+
+      - name: Commit graph
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-assets/contribution-line.svg
+          if git diff --cached --quiet; then
+            echo "No graph changes to commit."
+          else
+            git commit -m "Update contribution line graph"
+            git push
+          fi
