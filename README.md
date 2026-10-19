@@ -150,15 +150,17 @@ A full-stack web application for discovering campgrounds, managing listings, and
 
 
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/sonia071202/sonia071202/output/activity-graph.svg"
-    width="100%"
+    src="https://raw.githubusercontent.com/sonia071202/sonia071202/main/activity-graph.svg"
     alt="GitHub contribution activity graph"
+    width="100%"
   />
 </div>
+
 
 
 ## 🐍 Contribution Snake
