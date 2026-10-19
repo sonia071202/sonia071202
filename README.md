@@ -151,13 +151,14 @@ A full-stack web application for discovering campgrounds, managing listings, and
 
 
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/sonia071202/sonia071202/main/activity-graph.svg"
-    alt="GitHub contribution activity graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sonia071202&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true"
     width="100%"
+    alt="GitHub activity line graph"
   />
 </div>
 
