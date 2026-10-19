@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:483D8B,100:00BFFF&height=200&section=header&text=Sonia%20Gupta&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20AI%20Projects&descSize=16&descAlignY=55" width="100%" alt="Sonia Gupta banner"/>
 
@@ -7,11 +7,11 @@
 </a>
 
 <p>
-<a href="https://github.com/sonia071202"><img src="https://img.shields.io/badge/GitHub-sonia071202-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/sonia-gupta-a46263278/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://github.com/sonia071202"><img src="https://img.shields.io/badge/GitHub-sonia071202-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/sonia-gupta-a46263278/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/sweet07/"><img src="https://img.shields.io/badge/LeetCode-sweet07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://www.geeksforgeeks.org/profile/sg2023sonuyxc?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-<img src="https://komarev.com/ghpvc/?username=sonia071202&style=for-the-badge&color=6A5ACD" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=sonia071202&style=flat-square&color=6A5ACD&label=%F0%9F%91%81" alt="Profile views counter"/>
 </p>
 
 </div>
@@ -23,13 +23,15 @@
 - 🤖 Exploring Retrieval-Augmented Generation (RAG), document retrieval, and AI integrations.
 - 🧠 Practising Data Structures and Algorithms using Python.
 - 🌱 Continuously improving my programming, database, and software development skills.
-- 🎯 Aspiring software developer looking to solve real-world problems through technology.
+- 🎯 Aspiring software developer who enjoys solving real-world problems through technology.
 
 ## 🎓 Education
 
-- **Master of Computer Applications (MCA)**
-- **Amity University, Jharkhand**
-- **2026**
+**Master of Computer Applications (MCA)**
+
+Amity University, Jharkhand
+
+2026
 
 ## 🛠️ Tech Stack
 
@@ -60,7 +62,7 @@
 ### AI & RAG
 
 <p>
-<img src="https://img.shields.io/badge/Python-AI%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Python-AI%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python AI"/>
 <img src="https://img.shields.io/badge/LangChain-RAG-1C3C3C?style=for-the-badge" alt="LangChain"/>
 <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0467DF?style=for-the-badge" alt="FAISS"/>
 <img src="https://img.shields.io/badge/Hugging%20Face-Embeddings-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
@@ -149,7 +151,13 @@ A full-stack web application for discovering campgrounds, managing listings, and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonia071202&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://raw.githubusercontent.com/sonia071202/sonia071202/activity-assets/activity-30d.svg" width="100%" alt="GitHub contribution activity for the last 30 days"/>
+
+<p>
+<a href="https://raw.githubusercontent.com/sonia071202/sonia071202/activity-assets/activity-30d.svg">30 days</a> ·
+<a href="https://raw.githubusercontent.com/sonia071202/sonia071202/activity-assets/activity-90d.svg">90 days</a> ·
+<a href="https://raw.githubusercontent.com/sonia071202/sonia071202/activity-assets/activity-365d.svg">365 days</a>
+</p>
 
 </div>
 
