@@ -71,49 +71,55 @@ A full-stack web application for discovering campgrounds, managing listings, and
 🔗 [View Project on GitHub](https://github.com/sonia071202/Yelp_Camp)
 
 
+
 ## 🏆 Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/u/sweet07/">
-  <img src="https://img.shields.io/badge/LeetCode-sweet07-181C2A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Profile"/>
+  <img src="https://img.shields.io/badge/LeetCode-sweet07-171D30?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/profile/sg2023sonuyxc?tab=activity">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-sg2023sonuyxc-102C27?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks Profile"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-sg2023sonuyxc-12372A?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks"/>
 </a>
 
 <br/><br/>
 
-**Solved 150+ coding problems across practice platforms.**
+<sub><b>Solved 150+ coding problems</b> across practice platforms</sub>
 
 </div>
-
----
 
 ## 📜 Certificates
 
 <table>
-<tr>
-<td width="100%">
-
-<a href="https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f">
-<img align="left" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Learning"/>
-</a>
-
-### AWS Certified Cloud Practitioner (CLF-C02) — Cert Prep
-
-**LinkedIn Learning** · October 2026
-
-Completed preparation training covering AWS fundamentals and cloud computing concepts.
-
-[View Course Completion Certificate ↗](https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f)
-
-<br clear="left"/>
-
-</td>
-</tr>
+  <tr>
+    <td width="76">
+      <a href="https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="52" alt="LinkedIn Learning"/>
+      </a>
+    </td>
+    <td>
+      <strong>
+        <a href="https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f">
+          AWS Certified Cloud Practitioner (CLF-C02) — Cert Prep
+        </a>
+      </strong>
+      <br/>
+      <sub>LinkedIn Learning · October 2026</sub>
+      <br/><br/>
+      Completed preparation training covering AWS fundamentals and cloud computing concepts.
+      <br/><br/>
+      <a href="https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f">↗ View Course Completion Certificate</a>
+    </td>
+    <td align="right" width="120">
+      <a href="https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f">
+        <img src="https://img.shields.io/badge/COURSE-COMPLETION-6C63FF?style=for-the-badge" alt="Course Completion"/>
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 
 
