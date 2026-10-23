@@ -72,23 +72,20 @@ A full-stack web application for discovering campgrounds, managing listings, and
 
 
 
+
 ## 🏆 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/u/sweet07/">
-  <img src="https://img.shields.io/badge/LeetCode-sweet07-171D30?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/sg2023sonuyxc?tab=activity">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-sg2023sonuyxc-12372A?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks"/>
-</a>
+<a href="https://leetcode.com/u/sweet07/"><img src="https://img.shields.io/badge/LeetCode-sweet07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.geeksforgeeks.org/profile/sg2023sonuyxc?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-sg2023sonuyxc-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 
 <br/><br/>
 
-<sub><b>Solved 150+ coding problems</b> across practice platforms</sub>
+**Solved 150+ DSA problems solved across LeetCode & GeeksforGeeks.**
 
 </div>
+
 
 ## 📜 Certificates
 
