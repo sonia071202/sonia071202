@@ -84,7 +84,7 @@ A full-stack web application for discovering campgrounds, managing listings, and
 
 <br/><br/>
 
-**Solved 150+ coding problems across practice platforms.**
+**Solved 150+ coding problems on Data Structure & Algorithms across practice platforms.**
 
 </div>
 
