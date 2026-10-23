@@ -70,28 +70,51 @@ A full-stack web application for discovering campgrounds, managing listings, and
 
 🔗 [View Project on GitHub](https://github.com/sonia071202/Yelp_Camp)
 
+
 ## 🏆 Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/u/sweet07/">
-<img src="https://img.shields.io/badge/LeetCode-sweet07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode sweet07"/>
+  <img src="https://img.shields.io/badge/LeetCode-sweet07-181C2A?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode Profile"/>
 </a>
-
+&nbsp;
 <a href="https://www.geeksforgeeks.org/profile/sg2023sonuyxc?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-sg2023sonuyxc-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks sg2023sonuyxc"/>
+  <img src="https://img.shields.io/badge/GeeksforGeeks-sg2023sonuyxc-102C27?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks Profile"/>
 </a>
 
 <br/><br/>
 
-**Solved 150+ coding problems on Data Structure & Algorithms across practice platforms.**
+**Solved 150+ coding problems across practice platforms.**
 
 </div>
 
+---
 
 ## 📜 Certificates
 
-- [AWS Certified Cloud Practitioner (CLF-C02) — Cert Prep](https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f) — LinkedIn Learning
+<table>
+<tr>
+<td width="100%">
+
+<a href="https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f">
+<img align="left" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Learning"/>
+</a>
+
+### AWS Certified Cloud Practitioner (CLF-C02) — Cert Prep
+
+**LinkedIn Learning** · October 2026
+
+Completed preparation training covering AWS fundamentals and cloud computing concepts.
+
+[View Course Completion Certificate ↗](https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f)
+
+<br clear="left"/>
+
+</td>
+</tr>
+</table>
+
 
 
 ## 📊 GitHub Stats
