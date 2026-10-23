@@ -80,7 +80,7 @@ A full-stack web application for discovering campgrounds, managing listings, and
 <a href="https://leetcode.com/u/sweet07/"><img src="https://img.shields.io/badge/LeetCode-sweet07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://www.geeksforgeeks.org/profile/sg2023sonuyxc?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-sg2023sonuyxc-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 
-<br/><br/>
+<br/>
 
 **Solved 150+ DSA problems solved across LeetCode & GeeksforGeeks.**
 
