@@ -88,6 +88,12 @@ A full-stack web application for discovering campgrounds, managing listings, and
 
 </div>
 
+
+## 📜 Certificates
+
+- [AWS Certified Cloud Practitioner (CLF-C02) — Cert Prep](https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f) — LinkedIn Learning
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
