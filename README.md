@@ -6,20 +6,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Building+Practical+Software+Projects;Exploring+AI+%26+RAG+Applications;Learning+DSA+and+Web+Development;Always+Learning%2C+Always+Building" alt="Typing animation"/>
 </a>
 
-<p>
+<p align="center">
 <a href="https://github.com/sonia071202"><img src="https://img.shields.io/badge/GitHub-sonia071202-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/sonia-gupta-a46263278/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/sweet07/"><img src="https://img.shields.io/badge/LeetCode-sweet07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://www.geeksforgeeks.org/profile/sg2023sonuyxc?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 <a href="https://sonia-portfolio-dusky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website"/></a>
-<img src="https://komarev.com/ghpvc/?username=sonia071202&style=for-the-badge&color=6A5ACD" alt="Profile views"/>
 </p>
-
-<h3>🌐 Explore My Portfolio</h3>
-
-<a href="https://sonia-portfolio-dusky.vercel.app/">
-<img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-6A5ACD?style=for-the-badge" alt="Visit My Portfolio"/>
-</a>
 
 </div>
 
@@ -33,7 +26,6 @@
 - 🧠 Practising Data Structures and Algorithms using Python.
 - 🌱 Continuously improving my programming, database, and software development skills.
 - 🎯 Aspiring software developer looking to solve real-world problems through technology.
-- 🌐 [Explore my portfolio](https://sonia-portfolio-dusky.vercel.app/)
 
 ## 🎓 Education
 
@@ -78,19 +70,13 @@ A full-stack web application for discovering campgrounds, managing listings, and
 
 🔗 [View Project on GitHub](https://github.com/sonia071202/Yelp_Camp)
 
-🌐 [Visit My Portfolio for More Details](https://sonia-portfolio-dusky.vercel.app/)
-
 ## 🏆 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/u/sweet07/">
-<img src="https://img.shields.io/badge/LeetCode-sweet07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
+<a href="https://leetcode.com/u/sweet07/"><img src="https://img.shields.io/badge/LeetCode-sweet07-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
-<a href="https://www.geeksforgeeks.org/profile/sg2023sonuyxc?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-sg2023sonuyxc-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-</a>
+<a href="https://www.geeksforgeeks.org/profile/sg2023sonuyxc?tab=activity"><img src="https://img.shields.io/badge/GeeksforGeeks-sg2023sonuyxc-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
 
 <br/><br/>
 
@@ -108,11 +94,7 @@ A full-stack web application for discovering campgrounds, managing listings, and
 </a>
 </td>
 <td>
-<strong>
-<a href="https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f">
-AWS Certified Cloud Practitioner (CLF-C02) — Cert Prep
-</a>
-</strong>
+<strong><a href="https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f">AWS Certified Cloud Practitioner (CLF-C02) — Cert Prep</a></strong>
 <br/>
 <sub>LinkedIn Learning · October 2026</sub>
 <br/><br/>
@@ -121,9 +103,7 @@ Completed preparation training covering AWS fundamentals and cloud computing con
 <a href="https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f">↗ View Course Completion Certificate</a>
 </td>
 <td align="right" width="120">
-<a href="https://www.linkedin.com/learning/certificates/443d97bcd70838b2753a0554595c0b133ed490d3b72e8ebf9034d0ad09844d3f">
 <img src="https://img.shields.io/badge/COURSE-COMPLETION-6C63FF?style=for-the-badge" alt="Course Completion"/>
-</a>
 </td>
 </tr>
 </table>
@@ -133,34 +113,26 @@ Completed preparation training covering AWS fundamentals and cloud computing con
 <div align="center">
 
 <a href="https://github.com/sonia071202">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sonia071202&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonia071202&theme=tokyonight" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/sonia071202">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonia071202&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=sonia071202&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<a href="https://github.com/sonia071202">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sonia071202&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="GitHub contribution activity graph"
-  />
-</a>
+<img src="https://raw.githubusercontent.com/sonia071202/sonia071202/main/activity-graph.svg" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
-
 
 ## 🐍 Contribution Snake
 
@@ -178,10 +150,10 @@ Completed preparation training covering AWS fundamentals and cloud computing con
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile!
+**✨ Thanks for visiting my profile!**
 
 *Learning, building, and improving one project at a time.*
 
-🌐 **[Portfolio](https://sonia-portfolio-dusky.vercel.app/)** · 💻 **[GitHub](https://github.com/sonia071202)** · 🤝 **[LinkedIn](https://www.linkedin.com/in/sonia-gupta-a46263278/)**
+[🌐 Portfolio](https://sonia-portfolio-dusky.vercel.app/) · [💻 GitHub](https://github.com/sonia071202) · [🤝 LinkedIn](https://www.linkedin.com/in/sonia-gupta-a46263278/)
 
 </div>
